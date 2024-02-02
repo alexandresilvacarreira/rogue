@@ -112,7 +112,6 @@ public class Hero extends Character implements Combat<Enemy> {
         return currentDirection;
     }
 
-
     public void setCurrentDirection(Direction currentDirection) {
         this.currentDirection = currentDirection;
     }
